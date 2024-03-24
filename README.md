@@ -1,13 +1,5 @@
-# FirstUnityARProject- Jet Turbine Simulation with AR Foundation
-This project is a jet turbine simulation developed using Unity Engine and AR Foundation. It is part of the "Project-Based Augmented Reality Course" by freeCodeCamp.org.
-
-## About
-
-This project is a part of the "Project-Based Augmented Reality Course" by freeCodeCamp.org. The course is designed for beginners and covers various fields including Engineering, Education, ECommerce, and Creativity in the realm of augmented reality. The jet turbine simulation project provides hands-on experience in AR development using Unity Engine and AR Foundation.
-
-## Credits
-
-This project was inspired by the "Project-Based Augmented Reality Course with Unity Engine and AR Foundation" tutorial series by [freeCodeCamp.org](https://www.youtube.com/user/FreeCodeCamp). The tutorial provides comprehensive guidance for beginners in AR development. (Tutorial link: https://youtu.be/FJAO6jDYljs?feature=shared)
+# FirstUnityARProject- Human Heart
+This project is aboutsome of the main details in human heart developed using Unity Engine and AR Foundation.
 
 ## What I used as Development Tools
 
