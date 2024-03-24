@@ -1,5 +1,5 @@
 # FirstUnityARProject- Human Heart
-This project is aboutsome of the main details in human heart developed using Unity Engine and AR Foundation.
+This project is about the main details in human heart developed using Unity Engine and AR Foundation.
 
 ## What I used as Development Tools
 
